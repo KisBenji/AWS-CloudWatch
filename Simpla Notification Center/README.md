@@ -16,4 +16,5 @@ Ha befejeztük a konfigurálást akkor egy megerősítő email-t (confirmation) 
 
 Sikeres művelet esetén a következő fog megjelenni:
 
-<img width="587" height="181" alt="Képernyőfotó 2026-10-19 - 14 04 50" src="https://github.com/user-attachments/assets/0437df4f-ef3b-4477-b092-a05ea7cb02e1" />
+<img width="576" height="272" alt="Képernyőfotó 2026-10-19 - 14 04 56" src="https://github.com/user-attachments/assets/6bda6d1d-f33a-46b2-9333-459f911f085c" />
+
