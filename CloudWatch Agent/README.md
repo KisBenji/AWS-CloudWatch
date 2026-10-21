@@ -1,4 +1,4 @@
-CloudWatch agentet telepítünk az EC2 példányunkra, hogy a log fájlokat tudjuk naplózni és hibaüzenet esetén riasztást tudjunk beállítani rá. 
+CloudWatch agentet telepítünk az EC2 példányunkra, hogy a log fájlokat tudjuk naplózni és teszteljük a működését.
 
 Első lépésként az EC2 példánynak hozzá kell rendelni az IAM role-hoz a `CloudWatchAgentServerPolicy`
 
