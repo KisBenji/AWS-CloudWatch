@@ -23,6 +23,7 @@ Generáljunk mesterségesen magas CPU használatot!
 Csatlakozunk az EC2 gépünkhöz és a 
 
 sudo dnf install -y stress-ng
+
 stress-ng --cpu 2 --timeout 600s
 
 <img width="814" height="129" alt="Képernyőfotó 2026-10-19 - 14 18 00" src="https://github.com/user-attachments/assets/f8a5a284-71e2-4c9d-8bed-a296a7f3acb5" />
