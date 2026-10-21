@@ -18,3 +18,6 @@ Sikeres művelet esetén a következő fog megjelenni:
 
 <img width="576" height="272" alt="Képernyőfotó 2026-10-19 - 14 04 56" src="https://github.com/user-attachments/assets/6bda6d1d-f33a-46b2-9333-459f911f085c" />
 
+A feliratkozások `Subscription` részben ellenőrizhetjük, hogy tényleg visszaigazolt már az állapot
+
+<img width="1165" height="196" alt="Képernyőfotó 2026-10-19 - 14 05 14" src="https://github.com/user-attachments/assets/17a3fb46-64c0-4aaf-8f5d-3a4949cb30a3" />
