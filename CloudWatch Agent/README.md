@@ -54,3 +54,14 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl \
   -s
 ```
 
+Létrejött log group a CLoudWatchban:
+<img width="1194" height="245" alt="Képernyőfotó 2026-10-19 - 15 51 14" src="https://github.com/user-attachments/assets/57cd97ed-c93e-4e2d-a456-1067902043c6" />
+
+Hogy teszteljük az agent-t küldünk egy mentoring ERROR teszt üzenetet és megnézzük megjelenik-e a log gorupban.
+
+<img width="411" height="62" alt="Képernyőfotó 2026-10-19 - 15 55 03" src="https://github.com/user-attachments/assets/aba82ab2-9e9f-48c7-a5b3-46590cb5f0ee" />
+
+Látszik a küldött üzenet, hogy naplózásra került:
+<img width="1457" height="709" alt="Képernyőfotó 2026-10-19 - 15 58 50" src="https://github.com/user-attachments/assets/9a17608c-3186-4b23-bd51-6ba8692f2754" />
+
+
