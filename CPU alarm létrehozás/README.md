@@ -29,4 +29,11 @@ stress-ng --cpu 2 --timeout 600s
 
 <img width="814" height="129" alt="Képernyőfotó 2026-10-19 - 14 18 00" src="https://github.com/user-attachments/assets/f8a5a284-71e2-4c9d-8bed-a296a7f3acb5" />
 
-parancsot beírva várunk, hogy mi történik a CPU használattal és kapunk-e riasztást
+parancsot beírva várunk, hogy mi történik a CPU használattal és kapunk-e riasztást!?
+
+Pár perc elteltével a következő grafikont láthatjuk, ha jól írtunk be mindent: 
+
+<img width="1188" height="600" alt="Képernyőfotó 2026-10-19 - 14 18 35" src="https://github.com/user-attachments/assets/503938ca-a9fa-4831-9d44-284f5c72499f" />
+
+
+
