@@ -35,5 +35,24 @@ Pár perc elteltével a következő grafikont láthatjuk, ha jól írtunk be min
 
 <img width="1188" height="600" alt="Képernyőfotó 2026-10-19 - 14 18 35" src="https://github.com/user-attachments/assets/503938ca-a9fa-4831-9d44-284f5c72499f" />
 
+A rendszer pár perc elteltével email-t is küld a hibával, hogy OK->ALARM állapotba került a szerverünk. Így most már biztosak lehetünk, hogy jól állítottuk be az SNC beállításait.
 
+<img width="707" height="689" alt="Képernyőfotó 2026-10-19 - 14 16 42" src="https://github.com/user-attachments/assets/f3481688-31e5-47ab-82e1-37e451fb9def" />
 
+A teszt végén teszteljük, ha leállítjuk a terhelést akkor megszűnik-e a riasztás és újabb levelet kapunk-e arról, hogy az állapota a szervernek ALARM->OK lett.
+
+A terhelés leállításához a következő kódot használhatjuk: 
+
+```bash
+sudo pkill stress-ng
+```
+
+<img width="569" height="49" alt="Képernyőfotó 2026-10-19 - 14 23 20" src="https://github.com/user-attachments/assets/250b6378-00bb-485f-aebb-329a15650ab7" />
+
+Pár perc elteltével a CPU terhelés a beállított határérték alá csökken:
+
+<img width="1202" height="602" alt="Képernyőfotó 2026-10-19 - 14 26 12" src="https://github.com/user-attachments/assets/74f17177-075e-4be2-9ede-62bd011a5d87" />
+
+A rendszer küld megerősíti emailben is, hogy most már minden megfelelő:
+
+<img width="749" height="658" alt="Képernyőfotó 2026-10-19 - 14 41 40" src="https://github.com/user-attachments/assets/fc1c4eb4-b6b0-4643-bf24-bafa241ce50a" />
