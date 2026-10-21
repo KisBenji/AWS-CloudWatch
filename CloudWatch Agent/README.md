@@ -25,9 +25,6 @@ A megnyílt szerkesztőbe tudjuk a json fájlunkat bemásolni:
 ```bash
 
 {
-  "agent": {
-    "run_as_user": "root"
-  },
   "logs": {
     "logs_collected": {
       "files": {
