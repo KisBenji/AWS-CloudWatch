@@ -5,6 +5,7 @@ Először a Log management -> metric filter-ben állítjuk be az ERROR üzentre 
 
 <img width="1189" height="660" alt="Képernyőfotó 2026-10-19 - 16 37 17" src="https://github.com/user-attachments/assets/1bc9a348-5d25-44bf-ad5a-a95ea7662e34" />
 
+A Cloudwatchban beállítunk egy Alarm-ot, az előbb létrehozott filterre: 
 
 <img width="1442" height="668" alt="Képernyőfotó 2026-10-19 - 16 42 13" src="https://github.com/user-attachments/assets/01a668b6-86fe-4e40-b35e-b639ce15a3da" />
 
