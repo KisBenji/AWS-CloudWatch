@@ -64,6 +64,8 @@ Hogy teszteljük az agent-t küldünk egy mentoring ERROR teszt üzenetet és me
 Látszik a küldött üzenet, hogy naplózásra került:
 <img width="1163" height="94" alt="Képernyőfotó 2026-10-19 - 15 55 24" src="https://github.com/user-attachments/assets/651a6e61-1ec5-4010-9403-6be5451bccbd" />
 
+A logunkat ellenőrizni is tudjuk a Log insight-ban. Itt lehetőség van szűrőket beállítani a keresésre pl. ERROR üznetünket akarjuk megtalálni, hogy ne kelljen keresgetni a több 1000log között. 
+
 <img width="1457" height="709" alt="Képernyőfotó 2026-10-19 - 15 58 50" src="https://github.com/user-attachments/assets/9a17608c-3186-4b23-bd51-6ba8692f2754" />
 
 
