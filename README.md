@@ -17,18 +17,18 @@ Főbb funkciói amiknek a működését fogjuk részletesebben megnézni:
 📈 Dashboards: az adatok és a szerver állapotának megjelenítése.
 
 Tartalom:
-S3 - Bucket létrehozása - alap](<./Bucket létrehozása/README.md>)
+
 
 1. [EC2 CPU metrika a CloudWatch](<./EC2 CPU metrika a CloudWatch/README.md>) 
 
-[Simpla Notification Center](./2.Simpla Notification Center/README.md) 
+2. [Simpla Notification Center](<./Simple Notification Center/README.md) 
 
-[CPU alarm létrehozás](<./3.CPU alarm létrehozás/README.md>) 
+3. [CPU alarm létrehozás](<./CPU alarm létrehozás/README.md>) 
 
-[CloudWatch Agent](<./4.CloudWatch Agent/README.md>) 
+4. [CloudWatch Agent](<./CloudWatch Agent/README.md>) 
 
-[Dashboard](<./Dashboard/README.md>) 
+5. [Dashboard](<./Dashboard/README.md>) 
 
-[Metric filter](<./Metric filter/README.md>) 
+6. [Metric filter](<./Metric filter/README.md>) 
 
-[Memória riasztás](<./Memória riasztás/README.md>) 
+7. [Memória riasztás](<./Memória riasztás/README.md>) 
