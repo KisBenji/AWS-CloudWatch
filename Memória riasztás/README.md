@@ -49,7 +49,7 @@ A beállított riasztáshoz hozzárendelt SNC miatt email-es riasztást is kapun
 
 <img width="708" height="634" alt="Képernyőfotó 2026-10-23 - 10 11 35" src="https://github.com/user-attachments/assets/006ef120-5d65-4d37-845e-1e523ecd907b" />
 
-Két per elteltével a mesterséges memoria terhelésnek vége és újra "normális" állapotba kerül a szerver:
+Két perc elteltével a mesterséges memoria terhelésnek vége és újra "normális" állapotba kerül a szerver:
 
 <img width="1180" height="479" alt="Képernyőfotó 2026-10-23 - 10 13 47" src="https://github.com/user-attachments/assets/6c2d6609-a73f-4f5d-898c-640fd1eeeaa8" />
 
