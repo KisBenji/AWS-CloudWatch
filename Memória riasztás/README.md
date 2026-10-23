@@ -30,7 +30,7 @@ Be kell állítani a régiót, ahol az EC2 fut, elnevezhetjük és megadjuk a sz
 
 Ezután létrehozunk egy metric filtert a memória használat monitorozására a korábbiak szerint és létrehozzuk az ALARM-ot is hozzá.
 
-<img width="1470" height="956" alt="Képernyőfotó 2026-10-23 - 9 40 26" src="https://github.com/user-attachments/assets/518171c0-9fdd-4b53-900e-133c39f37883" />
+<img width="1343" height="754" alt="Képernyőfotó 2026-10-23 - 9 40 35" src="https://github.com/user-attachments/assets/33ea43dc-f7da-41a1-814d-26678f1d2fea" />
 
 A szerverünk memoria terhelését 95%-ra tesszük 2 percre:
 
