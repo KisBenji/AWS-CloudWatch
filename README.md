@@ -17,7 +17,7 @@ Főbb funkciói amiknek a működését fogjuk részletesebben megnézni:
 📈 Dashboards: az adatok és a szerver állapotának megjelenítése.
 
 Tartalom:
-(<./1.EC2 CPU metrika a CloudWatch/README.md>) 
+[EC2 CPU metrika a CloudWatch](<./1.EC2 CPU metrika a CloudWatch/README.md>) 
 
 (<./2.Virtuális gép létrehozása/README.md>) 
 (<./3.Virtuális gép létrehozása/README.md>) 
