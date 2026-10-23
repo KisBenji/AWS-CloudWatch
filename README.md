@@ -26,8 +26,8 @@ Tartalom:
 
 [CloudWatch Agent](<./4.CloudWatch Agent/README.md>) 
 
-[Dashboard](<./4.Dashboard/README.md>) 
+[Dashboard](<./Dashboard/README.md>) 
 
-[Metric filter](<./4.CloudWatch Agent/README.md>) 
+[Metric filter](<./Metric filter/README.md>) 
 
 [Memória riasztás](<./4.CloudWatch Agent/README.md>) 
