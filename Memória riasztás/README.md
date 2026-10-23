@@ -3,6 +3,29 @@ A következő tesztben azt nézzük meg, hogy a memória terhelésre hogyan tudu
 Első körben csatlakozunk a szerverünkhöz és konfiguráljuk a json fájlt a memoria használat monitorozására.
 Be kell állítani a régiót, ahol az EC2 fut, elnevezhetjük és megadjuk a szerver ID-t, illetve, hogy a "mem" (memória) metrikákat gyűjtse.
 
+```bash
+{
+  "agent": {
+    "metrics_collection_interval": 60,
+    "region": "eu-north-1"
+  },
+  "metrics": {
+    "namespace": "CWAgent",
+    "append_dimensions": {
+      "InstanceId": "${aws:InstanceId}"
+    },
+    "metrics_collected": {
+      "mem": {
+        "measurement": [
+          "used_percent"
+        ],
+        "metrics_collection_interval": 60
+      }
+    }
+  }
+}
+```
+
 <img width="450" height="403" alt="Képernyőfotó 2026-10-23 - 9 38 16" src="https://github.com/user-attachments/assets/46cb6852-5135-413f-bf1e-0259cd118459" />
 
 Ezután létrehozunk egy metric filtert a memória használat monitorozására a korábbiak szerint és létrehozzuk az ALARM-ot is hozzá.
