@@ -2,7 +2,11 @@ CloudWatch agentet telepítünk az EC2 példányunkra, hogy a log fájlokat tudj
 
 Első lépésként az EC2 példánynak hozzá kell rendelni az IAM role-hoz a `CloudWatchAgentServerPolicy`
 
-Ezt létrehoztam IAM roleként és a Security fülnél már csak beállítottam a szerverre:
+Ezt létrehoztam IAM roleként hozzá adtam `CloudWatchAgentServerPolicy`
+
+<img width="1146" height="222" alt="Képernyőfotó 2026-10-23 - 11 00 55" src="https://github.com/user-attachments/assets/117cee7f-f1f3-4124-81f4-a75b6f82baf8" />
+
+Security fülnél már csak beállítottam a szerverre:
 
 <img width="1449" height="345" alt="Képernyőfotó 2026-10-19 - 14 44 17" src="https://github.com/user-attachments/assets/5efd37cc-1b7e-4999-8d2f-20fa56b9c7eb" />
 
