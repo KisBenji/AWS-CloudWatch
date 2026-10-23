@@ -17,6 +17,11 @@ Egy perc elteltével látjuk, hogy a beállított 50%-os határérték felé men
 
 <img width="1164" height="502" alt="Képernyőfotó 2026-10-23 - 10 11 01" src="https://github.com/user-attachments/assets/a49fd984-4489-48c8-9367-8a6fada5d676" />
 
+Eközben a CPU alarm nem jelzett, nem érte el a beállított 70%-ot.
+
+<img width="1181" height="500" alt="Képernyőfotó 2026-10-23 - 10 11 16" src="https://github.com/user-attachments/assets/2163bae4-48ea-4c08-ba82-77eae1ef4c3b" />
+
+
 A beállított riasztáshoz hozzárendelt SNC miatt email-es riasztást is kapunk.
 
 <img width="708" height="634" alt="Képernyőfotó 2026-10-23 - 10 11 35" src="https://github.com/user-attachments/assets/006ef120-5d65-4d37-845e-1e523ecd907b" />
