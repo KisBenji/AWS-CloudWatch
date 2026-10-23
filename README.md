@@ -24,5 +24,8 @@ Tartalom:
 
 [CPU alarm létrehozás](<./3.CPU alarm létrehozás/README.md>) 
 
-[CloudWatch Agent](<./4.Virtuális gép létrehozása/README.md>) 
+[CloudWatch Agent](<./4.CloudWatch Agent/README.md>) 
 
+[Dashboard](<./4.CloudWatch Agent/README.md>) 
+
+[Metric filter](<./4.CloudWatch Agent/README.md>) 
