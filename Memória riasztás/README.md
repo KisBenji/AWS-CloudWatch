@@ -12,7 +12,7 @@ Be kell állítani a régiót, ahol az EC2 fut, elnevezhetjük és megadjuk a sz
   "metrics": {
     "namespace": "MemoriaALARM",
     "append_dimensions": {
-      "InstanceId": "${aws:InstanceId}"
+      "InstanceId": "${aws:i-08087df85ab651938}"
     },
     "metrics_collected": {
       "mem": {
