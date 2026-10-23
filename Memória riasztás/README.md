@@ -10,7 +10,7 @@ Be kell állítani a régiót, ahol az EC2 fut, elnevezhetjük és megadjuk a sz
     "region": "eu-north-1"
   },
   "metrics": {
-    "namespace": "MEMORIAAlarm",
+    "namespace": "MemoriaALARM",
     "append_dimensions": {
       "InstanceId": "${aws:InstanceId}"
     },
