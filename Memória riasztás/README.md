@@ -1,6 +1,7 @@
 A következő tesztben azt nézzük meg, hogy a memória terhelésre hogyan tudunk beállítani a Cloudwatch Agent konfigurációját és alarm üzenetet küldeni a SNC regisztrációhoz.
 
-Első körben csatlakozunk a szerverünkhöz és konfiguráljuk a json fájlt a memoria használat monitorozására:
+Első körben csatlakozunk a szerverünkhöz és konfiguráljuk a json fájlt a memoria használat monitorozására.
+Be kell állítani a régiót, ahol az EC2 fut, elnevezhetjük és megadjuk a szerver ID-t, illetve, hogy a "mem" (memória) metrikákat gyűjtse.
 
 <img width="450" height="403" alt="Képernyőfotó 2026-10-23 - 9 38 16" src="https://github.com/user-attachments/assets/46cb6852-5135-413f-bf1e-0259cd118459" />
 
