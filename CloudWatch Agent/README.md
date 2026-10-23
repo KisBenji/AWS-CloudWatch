@@ -66,6 +66,7 @@ Látszik a küldött üzenet, hogy naplózásra került:
 
 A logunkat ellenőrizni is tudjuk a Log insight-ban. Itt lehetőség van szűrőket beállítani a keresésre pl. ERROR üznetünket akarjuk megtalálni, hogy ne kelljen keresgetni a több 1000log között. 
 
-<img width="1457" height="709" alt="Képernyőfotó 2026-10-19 - 15 58 50" src="https://github.com/user-attachments/assets/9a17608c-3186-4b23-bd51-6ba8692f2754" />
+<img width="1451" height="507" alt="Képernyőfotó 2026-10-19 - 16 09 36" src="https://github.com/user-attachments/assets/69bdc32b-f452-4ed2-b3fb-a72a43be5638" />
+
 
 
