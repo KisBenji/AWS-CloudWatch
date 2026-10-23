@@ -20,9 +20,9 @@ Tartalom:
 
 [EC2 CPU metrika a CloudWatch](<./1.EC2 CPU metrika a CloudWatch/README.md>) 
 
-Simpla Notification Center](<./2.Simpla Notification Center/README.md>) 
+[Simpla Notification Center](<./2.Simpla Notification Center/README.md>) 
 
-[CPU alarm létrehozás](<./3.Virtuális gép létrehozása/README.md>) 
+[CPU alarm létrehozás](<./3.CPU alarm létrehozás/README.md>) 
 
-(<./4.Virtuális gép létrehozása/README.md>) 
+[CloudWatch Agent](<./4.Virtuális gép létrehozása/README.md>) 
 
