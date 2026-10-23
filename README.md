@@ -18,9 +18,9 @@ Főbb funkciói amiknek a működését fogjuk részletesebben megnézni:
 
 Tartalom:
 
-[EC2 CPU metrika a CloudWatch](<./1.EC2 CPU metrika a CloudWatch/README.md>) 
+[EC2 CPU metrika a CloudWatch](./1.EC2 CPU metrika a CloudWatch/README.md) 
 
-[Simpla Notification Center](<./2.Simpla Notification Center/README.md>) 
+[Simpla Notification Center](./2.Simpla Notification Center/README.md) 
 
 [CPU alarm létrehozás](<./3.CPU alarm létrehozás/README.md>) 
 
