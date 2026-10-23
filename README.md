@@ -15,3 +15,7 @@ Főbb funkciói amiknek a működését fogjuk részletesebben megnézni:
 🚨 Alarms: automatikus riasztások beállítása.
 
 📈 Dashboards: az adatok és a szerver állapotának megjelenítése.
+
+Tartalom:
+
+
